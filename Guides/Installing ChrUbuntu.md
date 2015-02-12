@@ -24,13 +24,13 @@ sudo crossystem dev_boot_usb=1 dev_boot_legacy=1
 
 7.
 
-⋅⋅a. If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following:
+  a. If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following:
 
 ```
 wget http://goo.gl/tnyga; sudo bash tnyga
 ```
 
-⋅⋅b. If using a newer model Chromebook run the following:
+  b. If using a newer model Chromebook run the following:
 
 ```
 curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs
@@ -56,38 +56,38 @@ curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -m <ubuntu_flavo
 
 where 
 
-⋅⋅* `<script_name>` is one of the following:
-⋅⋅1. `tnyga`
-⋅⋅2. `9sgchs` 
-⋅⋅* `<ubuntu_flavor>` can be one of the following:
-⋅⋅1. `ubuntu-desktop`
-⋅⋅2. `kubuntu-desktop`
-⋅⋅3. `lubuntu-desktop`
-⋅⋅4. `xubuntu-desktop`
-⋅⋅5. `edubuntu-desktop`
-⋅⋅6. `ubuntu-standard` - No GUI installed
-⋅⋅* `<version>` can be one of the following:
-⋅⋅1. `lts` - The latest LTS Ubuntu release
-⋅⋅2. 'latest` - The latest official stable Ubuntu release
-⋅⋅3. `dev` - The latest unstable development Ubuntu release (**NOT RECOMMENDED**)
-⋅⋅4. '12.10' - Ubuntu 12.10 release
-⋅⋅* `<architecture>` can be one of the following:
-⋅⋅1. amd64
-⋅⋅2. i386
+  * `<script_name>` is one of the following:
+   1. `tnyga`
+   2. `9sgchs` 
+  * `<ubuntu_flavor>` can be one of the following:
+   1. `ubuntu-desktop`
+   2. `kubuntu-desktop`
+   3. `lubuntu-desktop`
+   4. `xubuntu-desktop`
+   5. `edubuntu-desktop`
+   6. `ubuntu-standard` - No GUI installed
+  * `<version>` can be one of the following:
+   1. `lts` - The latest LTS Ubuntu release
+   2. 'latest` - The latest official stable Ubuntu release
+   3. `dev` - The latest unstable development Ubuntu release (**NOT RECOMMENDED**)
+   4. '12.10' - Ubuntu 12.10 release
+  * `<architecture>` can be one of the following:
+   1. amd64
+   2. i386
 
 14. Wait as the required files are downloaded and installed and answer any questions about encoding, locale and language if asked
 
 15. If prompted for where to place the 'GRUB', be sure to check the box next to '/dev/sda'. 
 
 16. Once rebooted, you'll be presented with the Deverloper Mode Boot Screen.
-⋅⋅* To boot ChromeOS, hit CTRL+D
-⋅⋅* To boot ChrUbuntu, hit CTRL+L
+  * To boot ChromeOS, hit CTRL+D
+  * To boot ChrUbuntu, hit CTRL+L
 
 17. The username for ChrUbuntu is 'user' and the password is 'user'
 
 **Further Reading**
-⋅⋅* [Common ChrUbuntu Fixes]() //Coming Soon
-⋅⋅* [ChrUbuntu Tips]() //Coming Soon
-⋅⋅* [Not an Ubuntu fan? Installing a different flavor of Linux]() //Coming Soon
+  * [Common ChrUbuntu Fixes]() //Coming Soon
+  * [ChrUbuntu Tips]() //Coming Soon
+  * [Not an Ubuntu fan? Installing a different flavor of Linux]() //Coming Soon
 
 
