@@ -7,35 +7,14 @@ If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/c
 **NOTE**: Installing ChrUbuntu will wipe everything from your machine
 
 1. Ensure that your machine is Deverloper Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
-
 2. If you haven't already, fully shut down your device and restart the machine. Do NOT go past the login screen.
-
 3. Ensure that the Chromebook is connect to the internet.
-
 4. Press CTRL+ALT+=> (=> is the forward arrow on the keyboard aka F2 on a normal keyboard).
-
 5. Login as user 'chronos', with no password.
-
-6. Run the command to allow booting to Linux and USB devices:
-
-  ```
-  sudo crossystem dev_boot_usb=1 dev_boot_legacy=1
-  ```
-
-7.
-
-  a. If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following:
-
-    ```
-    wget http://goo.gl/tnyga; sudo bash tnyga
-    ```
-
-  b. If using a newer model Chromebook run the following:
-
-    ```
-    curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs
-    ```
-
+6. Run the command to allow booting to Linux and USB devices: `sudo crossystem dev_boot_usb=1 dev_boot_legacy=1`
+7. Run one of the following commands:
+  * If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following: `wget http://goo.gl/tnyga; sudo bash tnyga`
+  * If using a newer model Chromebook run the following: `curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs`
 8. Answer any prompts and specify the size you wish to allocate to your ChrUbuntu partition. 5GB is the minimum required space and your total drive size minus 7GB for the ChromeOS partition as the maximum in 1GB increments. (i.e. If you have a 16GB SSD, allocate 9GB to ChrUbuntu at the most; similarly 25GB if you have a 32GB SSD).
 
 9. Wait as the script reparitions the drive and reboots.
@@ -50,11 +29,9 @@ If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/c
 
   **NOTE:** Run `curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -h` to see all available options
 
-  ```
-  curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -m <ubuntu_flavor> -u <version> -a <architecture>
-  ```
+  `curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -m <ubuntu_flavor> -u <version> -a <architecture>`
 
-where 
+  where 
 
   * `<script_name>` is one of the following:
    1. `tnyga`
