@@ -17,7 +17,7 @@ A big thanks to [/u/hugegreenbug](http://www.reddit.com/u/hugegreenbug) for his 
 5. Replace the moved configuration with the ported ChromeOS configuration.
 
   `$ sudo cp /usr/share/xf86-input-cmt/50-touchpad-cmt-<model>.conf /usr/share/X11/xorg.conf.d/` 
-  **The current options for model are:**
+  **The current options for `<model>` are:**
   * `aebl` - ?
   * `alex` - Series 5
   * `butterfly` - HP Pavilion
