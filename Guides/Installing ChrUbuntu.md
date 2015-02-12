@@ -34,23 +34,23 @@ If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/c
   where 
 
   * `<script_name>` is one of the following:
-   1. `tnyga`
-   2. `9sgchs` 
+    1. `tnyga`
+    2. `9sgchs` 
   * `<ubuntu_flavor>` can be one of the following:
-   1. `ubuntu-desktop`
-   2. `kubuntu-desktop`
-   3. `lubuntu-desktop`
-   4. `xubuntu-desktop`
-   5. `edubuntu-desktop`
-   6. `ubuntu-standard` - No GUI installed
+    1. `ubuntu-desktop`
+    2. `kubuntu-desktop`
+    3. `lubuntu-desktop`
+    4. `xubuntu-desktop`
+    5. `edubuntu-desktop`
+    6. `ubuntu-standard` - No GUI installed
   * `<version>` can be one of the following:
-   1. `lts` - The latest LTS Ubuntu release
-   2. 'latest` - The latest official stable Ubuntu release
-   3. `dev` - The latest unstable development Ubuntu release (**NOT RECOMMENDED**)
-   4. '12.10' - Ubuntu 12.10 release
+    1. `lts` - The latest LTS Ubuntu release
+    2. 'latest` - The latest official stable Ubuntu release
+    3. `dev` - The latest unstable development Ubuntu release (**NOT RECOMMENDED**)
+    4. '12.10' - Ubuntu 12.10 release
   * `<architecture>` can be one of the following:
-   1. amd64
-   2. i386
+    1. amd64
+    2. i386
 
 14. Wait as the required files are downloaded and installed and answer any questions about encoding, locale and language if asked
 
