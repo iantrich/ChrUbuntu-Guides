@@ -7,6 +7,7 @@
   * linux-image-3.xx.x-generic_3.xx.x_<architecture>.deb
   * linux-headers-3.xx.x-generic_3.xx.x_<architecture>.deb
   * linux-headers-3.xx,x_3.xx.x_all.deb
+  
   **NOTE:** `<architecture>` will be either *i386* for 32-bit processors or *amd64* for 64-bit processors.
 3. Run the commands: 
   * `$ sudo dpkg -i ~/Downloads/linux-image*.deb`
