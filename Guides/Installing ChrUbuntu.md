@@ -2,16 +2,16 @@ The following guide shows you how to successfully install [ChrUbuntu by Jay Lee]
 
 If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/chrubuntu)
 
-**Prerequisites:** [Developer Mode Enabled](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices), connected to a power source, USB mouse
+**PREREQUISITES:** [Developer Mode Enabled](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices), connected to a power source, USB mouse
 
-**Recommendations:** Make a [Chromebook Recovery USB](https://support.google.com/chromebook/answer/6002417?hl=en) before starting. If you have access to another machine this is not too much of an issue, but if you only have the Chromebook, you'll want this just in case anything goes wrong and you want to start over or go back to ChromeOS only.
+**RECOMMENDATIONS:** Make a [Chromebook Recovery USB](https://support.google.com/chromebook/answer/6002417?hl=en) before starting. If you have access to another machine this is not too much of an issue, but if you only have the Chromebook, you'll want this just in case anything goes wrong and you want to start over or go back to ChromeOS only.
 
 **NOTE**: Installing ChrUbuntu will wipe everything from your machine
 
-1. Ensure that your machine is Deverloper Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
+1. Ensure that your machine is in Developer Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
 2. If you haven't already, fully shut down your device and restart the machine. Do NOT go past the login screen.
-3. Ensure that the Chromebook is connect to the internet.
-4. Press CTRL+ALT+=> (=> is the forward arrow on the keyboard aka F2 on a normal keyboard).
+3. Ensure that the Chromebook is connected to the internet.
+4. Press **CTRL+ALT+=>** (=> is the forward arrow on the keyboard aka F2 on a normal keyboard).
 5. Login as user 'chronos', with no password.
 6. Run the command to allow booting to Linux and USB devices: `sudo crossystem dev_boot_usb=1 dev_boot_legacy=1`
 7. Run one of the following commands:
@@ -59,14 +59,14 @@ If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/c
 15. If prompted for where to place the 'GRUB', be sure to check the box next to '/dev/sda'. 
 
 16. Once rebooted, you'll be presented with the Deverloper Mode Boot Screen.
-  * To boot ChromeOS, hit CTRL+D
-  * To boot ChrUbuntu, hit CTRL+L
+  * To boot ChromeOS, hit **CTRL+D**
+  * To boot ChrUbuntu, hit **CTRL+L**
 
 17. The username for ChrUbuntu is 'user' and the password is 'user'
 
 **Further Reading**
-  * [Common ChrUbuntu Fixes]() //Coming Soon
-  * [ChrUbuntu Tips]() //Coming Soon
-  * [Not an Ubuntu fan? Installing a different flavor of Linux]() //Coming Soon
+  * [Common ChrUbuntu Fixes](https://github.com/iantrich/ChrUbuntu-Guides#fixes)
+  * [ChrUbuntu Tips](https://github.com/iantrich/ChrUbuntu-Guides#tips)
+  * [Not an Ubuntu fan? Installing a different flavor of Linux](https://github.com/iantrich/ChrUbuntu-Guides/edit/master/Guides/Installing%20a%20custom%20distro.md)
 
 
