@@ -2,7 +2,9 @@ The following guide shows you how to successfully install [ChrUbuntu by Jay Lee]
 
 If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/chrubuntu)
 
-**Prerequisites**: [Developer Mode Enabled](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices), connected to a power source, USB mouse
+**Prerequisites:** [Developer Mode Enabled](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices), connected to a power source, USB mouse
+
+**Recommendations:** Make a [Chromebook Recovery USB](https://support.google.com/chromebook/answer/6002417?hl=en) before starting. If you have access to another machine this is not too much of an issue, but if you only have the Chromebook, you'll want this just in case anything goes wrong and you want to start over or go back to ChromeOS only.
 
 **NOTE**: Installing ChrUbuntu will wipe everything from your machine
 
