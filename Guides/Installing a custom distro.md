@@ -8,7 +8,7 @@ laptop, checkout installing [John Lewis](http://johnlewis.ie) coreboot firmware.
 once installed to install a different distro starting at steps 7
 
 **PREREQUISITES** THis guide assumes you have already created a Live USB to install from with your choosen distro.
-Look [here]() on how to do this.
+Look [here](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Creating%20a%20Live%20USB.md) on how to do this.
 
 1. Ensure that your machine is in Developer Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
   **Developer Mode will wipe your machine once turned on**
