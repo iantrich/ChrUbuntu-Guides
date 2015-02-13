@@ -24,3 +24,4 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 * [Set SeaBIOS as Default Boot Option](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/Linux-SeaBIOS%20as%20Default%20Boot%20Option.md)
 * [Useful Key Mappings](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/Useful%20Key%20Mappings.md)
 * [SSD Optimization](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/SSD%20Optimization.md)
+* [General Tips](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/General%20Tips)
