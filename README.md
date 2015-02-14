@@ -11,7 +11,7 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 
 # Fixes
 * [Touchpad](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Touchpad.md)
-* [Suspend/Wake](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Suspend-Wake.md) - Coming Soon
+* [Suspend/Wake](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Suspend-Wake.md)
 * [Screen Tearing](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Screen%20Tearing.md) - Coming Soon
 * [Hotkeys](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Hotkeys.md)
 * [Audio](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Fixes/Audio.md) - Coming Soon
