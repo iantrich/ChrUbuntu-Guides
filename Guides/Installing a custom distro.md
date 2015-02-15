@@ -2,7 +2,7 @@
 functional linux machine and should be okay with Linux only, but be forewarned.
 
 **NOTE:** If you wish to eliminate your ChromeOS partition fully and make your Chromebook a more traditional Linux 
-laptop, checkout installing [John Lewis](http://johnlewis.ie) coreboot firmware.
+laptop, checkout installing [John Lewis](https://wiki.archlinux.org/index.php/Chromebook#Custom_Firmware) coreboot firmware.
 
 **NOTE:** This installation is to be done instead of ChrUbuntu but it is possible to wipe out your ChrUbuntu partition
 once installed to install a different distro starting at steps 7
