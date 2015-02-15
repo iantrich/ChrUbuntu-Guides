@@ -3,7 +3,7 @@
 * On Linux from terminal:
 **IMPORTANT:** The drive you are writing to must be unmounted. Use `umount`.
 
-`sudo dd if=file.iso of=/dev/usb_device bs=1M`
+` sudo dd bs=4M if=/path/to/distro.iso of=/dev/sdx && sync`
 
   *(where usb_device is the usb drive)*
   **NOTE:** If you don't know the drive name, run `lsblk`.
