@@ -6,6 +6,10 @@ If you have any questions, please visit [/r/Chrubuntu](http://www.reddit.com/r/c
 
 **RECOMMENDATIONS:** Make a [Chromebook Recovery USB](https://support.google.com/chromebook/answer/6002417?hl=en) before starting. If you have access to another machine this is not too much of an issue, but if you only have the Chromebook, you'll want this just in case anything goes wrong and you want to start over or go back to ChromeOS only.
 
+**SET LINUX AS DEFAULT** It can be very annoying having to press Ctrl+L every time you wish to boot into linux
+at the Dev Screen. By setting Legacy as the default you can bypass this and has the added benefit of protecting
+your installation from corruption due to unexpected power loss. Read more on the Arch Linux [wiki](https://wiki.archlinux.org/index.php/Chromebook#Boot_to_SeaBIOS_by_default)
+
 **NOTE**: Installing ChrUbuntu will wipe everything from your machine
 
 1. Ensure that your machine is in Developer Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
