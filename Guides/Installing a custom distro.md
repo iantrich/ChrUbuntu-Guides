@@ -4,10 +4,9 @@ functional linux machine and should be okay with Linux only, but be forewarned.
 **NOTE:** If you wish to eliminate your ChromeOS partition fully and make your Chromebook a more traditional Linux 
 laptop, checkout installing [John Lewis](https://wiki.archlinux.org/index.php/Chromebook#Custom_Firmware) coreboot firmware.
 
-**NOTE:** This installation is to be done instead of ChrUbuntu but it is possible to wipe out your ChrUbuntu partition
-once installed to install a different distro starting at steps 7
+**NOTE:** This installation is to be done instead of ChrUbuntu but it is possible to wipe out your ChrUbuntu partition once installed to install a different distro starting at steps 7
 
-**PREREQUISITES** THis guide assumes you have already created a Live USB to install from with your choosen distro.
+**PREREQUISITES** This guide assumes you have already created a Live USB to install from with your choosen distro.
 Look [here](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Creating%20a%20Live%20USB.md) on how to do this.
 
 1. Ensure that your machine is in Developer Mode. Model-specific instructions can be found [here](http://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices)
