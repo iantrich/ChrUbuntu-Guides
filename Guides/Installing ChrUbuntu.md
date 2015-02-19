@@ -17,10 +17,19 @@ your installation from corruption due to unexpected power loss. Read more on the
 3. Ensure that the Chromebook is connected to the internet.
 4. Press **CTRL+ALT+=>** (=> is the forward arrow on the keyboard aka F2 on a normal keyboard).
 5. Login as user 'chronos', with no password.
-6. Run the command to allow booting to Linux and USB devices: `sudo crossystem dev_boot_usb=1 dev_boot_legacy=1`
+6. Run the command to allow booting to Linux and USB devices: 
+
+  `sudo crossystem dev_boot_usb=1 dev_boot_legacy=1`
+  
 7. Run one of the following commands:
-  * If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following: `wget http://goo.gl/tnyga; sudo bash tnyga`
-  * If using a newer model Chromebook run the following: `curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs`
+  * If using the ARM-based HP Chromebook 11, Acer C7, Samsung 550 or other older generation machines run the following: 
+  
+  `wget http://goo.gl/tnyga; sudo bash tnyga`
+
+  * If using a newer model Chromebook run the following: 
+  
+  `curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs`
+
 8. Answer any prompts and specify the size you wish to allocate to your ChrUbuntu partition. 5GB is the minimum required space and your total drive size minus 7GB for the ChromeOS partition as the maximum in 1GB increments. (i.e. If you have a 16GB SSD, allocate 9GB to ChrUbuntu at the most; similarly 25GB if you have a 32GB SSD).
 
 9. Wait as the script reparitions the drive and reboots.
