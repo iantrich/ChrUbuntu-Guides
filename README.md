@@ -25,3 +25,14 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 * [Useful Key Mappings](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/Useful%20Key%20Mappings.md)
 * [SSD Optimization](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/SSD%20Optimization.md)
 * [General Tips](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Tips/General%20Tips.md)
+
+# Other Resources
+* Jay Lee's ChrUbuntu [Website](http://chromeos-cr48.blogspot.com) | [Github Repo](https://github.com/jay0lee/chrubuntu-script)
+* [John Lewis's coreboot Firmware](https://johnlewis.ie/custom-chromebook-firmware/rom-download/)
+* [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Chromebook)
+* [chrx for C720](https://github.com/reynhout/chrx) from @reynhout
+* [CodeStarter for C720](https://github.com/codestarterorg/ubuntu-chromebook-installer)
+* [DistroShare Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) from @hugegreenbug
+* [Ported ChromeOS Touchpad Driver](https://github.com/hugegreenbug/xf86-input-cmt) from @hugegreenbug
+* [Ported ChromeOS libgestures](https://github.com/hugegreenbug/libgestures) from @hugegreenbug
+* [Crouton](https://github.com/dnschneid/crouton) from @dnschneid
