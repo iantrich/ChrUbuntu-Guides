@@ -74,6 +74,17 @@ your installation from corruption due to unexpected power loss. Read more on the
 16. Once rebooted, you'll be presented with the Deverloper Mode Boot Screen.
   * To boot ChromeOS, hit **CTRL+D**
   * To boot ChrUbuntu, hit **CTRL+L**
+  * **NOTE:** If you ran `tynga` or are on an ARM machine this will most likely not work. You'll need to additionally run the following command from the ChromeOS shell to make ChrUbuntu the default boot option:
+  
+    tynga: `sudo cgpt add -i 6 -P 5 -S 1 /dev/sda`
+    
+    ARM: `sudo cgpt add -i 6 -P 5 -S 1 /dev/mmcblk0`
+
+  * To make ChromeOS again the default:
+
+    tynga: `sudo cgpt add -i 6 -P 0 -S 1 /dev/sda`
+    
+    ARM: `sudo cgpt add -i 6 -P 0 -S 1 /dev/mmcblk0`
 
 17. The username for ChrUbuntu is 'user' and the password is 'user'
 
