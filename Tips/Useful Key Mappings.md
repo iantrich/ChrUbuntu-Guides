@@ -1,15 +1,15 @@
 This will show you how to get the following key bindings
 
-Delete = shift+Backspace
-Page Up = shift+Up
-Page Down = shift+Down
-Home = shift+alt+Up
-End = shift+alt+Down
-F1 = alt+Back
-F2 = alt+Forward
-F3 = alt+Reload
-F11 = alt+F4
-Caps Lock = alt+Search
+* Delete = shift+Backspace
+* Page Up = shift+Up
+* Page Down = shift+Down
+* Home = shift+alt+Up
+* End = shift+alt+Down
+* F1 = alt+Back
+* F2 = alt+Forward
+* F3 = alt+Reload
+* F11 = alt+F4
+* Caps Lock = alt+Search
 
 
   ```
