@@ -26,7 +26,7 @@ your installation from corruption due to unexpected power loss. Read more on the
   
   `wget http://goo.gl/tnyga; sudo bash tnyga`
 
-  * If using a newer model Chromebook run the following: 
+  * If using a newer model Chromebook (Intel Haswell or Core i5/i7 processors) run the following: 
   
   `curl -L -O http://goo.gl/9sgchs; sudo bash 9sgchs`
 
@@ -69,6 +69,33 @@ your installation from corruption due to unexpected power loss. Read more on the
 
 14. Wait as the required files are downloaded and installed and answer any questions about encoding, locale and language if asked
 
+  **NOTE:** If you are running the `9sgchs` script for the first time, the sript will partition the disk the first time and require you to reboot, re-download and run it once again to actually install the OS. If you already have partitions, this step will not occur
+  
+  **NOTE:** In the default installation with the `9sgchs` script, username and password for ChrUbuntu will both be `user`. Here is how you can change these to something more secure by editing the script (eg. using `vi`) BEFORE running it to install the OS. If you don't understand shell scripting, do not attempt this since bugs could break your installation. 
+  
+  Change the following likes:
+  ```
+  useradd -m user -s /bin/bash
+  echo user | echo user:user | chpasswd
+  adduser user adm
+  adduser user sudo
+  if [ -f /usr/lib/lightdm/lightdm-set-defaults ]
+  then
+    /usr/lib/lightdm/lightdm-set-defaults --autologin user
+  fi" > /tmp/urfs/install-ubuntu.sh
+  ```
+  To look like below where you can specify your own `username` and `password`
+  ```
+  useradd -m username -s /bin/bash
+  echo username | echo username:password | chpasswd
+  adduser username adm
+  adduser username sudo
+  if [ -f /usr/lib/lightdm/lightdm-set-defaults ]
+  then
+    /usr/lib/lightdm/lightdm-set-defaults --autologin username
+  fi" > /tmp/urfs/install-ubuntu.sh
+  ```
+
 15. If prompted for where to place the 'GRUB', be sure to check the box next to '/dev/sda'. 
 
 16. Once rebooted, you'll be presented with the Deverloper Mode Boot Screen.
@@ -86,7 +113,7 @@ your installation from corruption due to unexpected power loss. Read more on the
     
     ARM: `sudo cgpt add -i 6 -P 0 -S 1 /dev/mmcblk0`
 
-17. The username for ChrUbuntu is 'user' and the password is 'user'
+17. The username for ChrUbuntu is 'user' and the password is 'user' (unless you have changed them as indicated above)
 
 **Further Reading**
   * [Common ChrUbuntu Fixes](https://github.com/iantrich/ChrUbuntu-Guides#fixes)
