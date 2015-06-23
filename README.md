@@ -1,6 +1,9 @@
 # ChrUbuntu-Guides
 Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUbuntu
 
+# Supported Models
+* Under Construction
+
 # Guides
 * [Installing ChrUbuntu](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Installing%20ChrUbuntu.md)
 * [Installing ChrUbuntu to USB or SD Card](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Installing%20ChrUbuntu%20to%20USB%20or%20SD%20Card.md)
