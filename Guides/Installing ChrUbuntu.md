@@ -60,9 +60,9 @@ your installation from corruption due to unexpected power loss. Read more on the
     6. `ubuntu-standard` - No GUI installed
   * `<version>` can be one of the following:
     1. `lts` - The latest LTS Ubuntu release
-    2. 'latest` - The latest official stable Ubuntu release
+    2. `latest` - The latest official stable Ubuntu release
     3. `dev` - The latest unstable development Ubuntu release (**NOT RECOMMENDED**)
-    4. '12.10' - Ubuntu 12.10 release
+    4. `12.10` - Ubuntu 12.10 release
   * `<architecture>` can be one of the following:
     1. amd64
     2. i386
