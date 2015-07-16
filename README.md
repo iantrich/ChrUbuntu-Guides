@@ -23,6 +23,7 @@ CTL NL6|Engarde|?|?|[John Lewis](http://goo.gl/K8D3MO)|
 Dell 11|Wolf|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
 HEXA Pi||N|N|N|
 HP Chromebook 11 G3|Kip|?|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
+HP Chromebox|Zako|?|?|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo N20/P|Clapper|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo ThinkPad Yoga 11e|Glimmer|?|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 LG Chromebase|Monroe|Y|Y|[John Lewis](http://goo.gl/K8D3MO)|
@@ -53,10 +54,6 @@ Model|Hardware ID|Status|Script|SeaBIOS
 [Acer AC700](http://goo.gl/JL5cu3)|ZGB|Y|[tnyga](http://goo.gl/7bUocb)|N|
 [Google Cr-48](http://goo.gl/Oc4l0I)|Mario|Y|[tnyga](http://goo.gl/7bUocb)|N|
 [Samsung Series 5](http://goo.gl/2vaLvs)|Alex|Y|[tnyga](http://goo.gl/7bUocb)|N|
-
-To Sort
-
-HP Chromebox - Zako
 
 # Guides
 * [Installing ChrUbuntu](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Installing%20ChrUbuntu.md)
