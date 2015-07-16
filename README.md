@@ -7,7 +7,8 @@ Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 Acer Chromebook 11 C740|Auron_Paine|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Acer Chromebook 15 C910|Auron_Yuna|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-Dell 11/P|Candy|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Dell 11|Candy|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Dell 11P|?|?|?|?|
 Google Pixel 2|Samus|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo N21|Enguarde|?|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo Thinkpad 11e|Glimmer|?|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
