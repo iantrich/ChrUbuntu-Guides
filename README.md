@@ -3,54 +3,55 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 
 # Supported Models
 > ##2015 Chromebooks
-Model|Status|Script|SeaBIOS
-:-:|:-:|:-:|:-:|
-Acer C740 - Auron_Paine|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-Acer C910 - Auron_Yuna|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-Dell 11/P - Candy|?|?|[John Lewis](http://goo.gl/K8D3MO)|
-Google Pixel 2 - Samus|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Model|Hardware ID|Status|Script|SeaBIOS
+-----|-----------|:----:|:----:|:-----:
+Acer Chromebook 11 C740|Auron_Paine|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Acer Chromebook 15 C910|Auron_Yuna|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Dell 11/P|Candy|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Google Pixel 2|Samus|Y|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Lenovo N21||?|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 > ##2014 Chromebooks
-Model|Status|Script|SeaBIOS
-:-:|:-:|:-:|:-:|
-Acer C730 - |?|[Crouton](https://github.com/dnschneid/crouton)|N|
-Acer CB3 - Gnawty|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-Acer CB5 - Big|N|[Crouton](https://github.com/dnschneid/crouton)|N|
-ASUS C200 - Squawks|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-ASUS C300 - Quawks|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-ASUS Chromebox - Panther|?|?|[John Lewis](http://goo.gl/K8D3MO)|
-CTL NL6 - |?|?|?|
-Dell 11 - Wolf|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-HEXA Pi - |N|N|N|
-Lenova N20/P - Clapper|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-Lenova 11e - |?|[Crouton](https://github.com/dnschneid/crouton)|?|
-LG Chromebase - Monroe|Y|Y|[John Lewis](http://goo.gl/K8D3MO)|
-[Samsung 2 11 - Peach Pit](http://goo.gl/oSCOKd)|N|[Crouton](https://github.com/dnschneid/crouton)|N|
-[Samsung 2 13 - Peach Pi](http://goo.gl/oSCOKd)|N|[Crouton](https://github.com/dnschneid/crouton)|N|
-Senkatel Edu - ?|?|?|?|
-[Toshiba CB30/35 - Leon](http://goo.gl/nCIzN9)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-Toshiba CB30/35 2 - Swanky|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Model|Hardware ID|Status|Script|SeaBIOS
+-----|-----------|:----:|:----:|:-----:
+Acer Chromebook 11, CB3, C730|Gnawty|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+Acer Chromebook 13, CB5|Big|N|[Crouton](https://github.com/dnschneid/crouton)|N (ARM)|
+ASUS C200|Squawks|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+ASUS C300|Quawks|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+ASUS Chromebox|Panther|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+CTL NL6|Engarde|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Dell 11|Wolf|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+HEXA Pi||N|N|N|
+HP Chromebook 11 G3|Kip|?|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
+Lenovo N20/P|Clapper|N|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+Lenovo ThinkPad Yoga 11e|Glimmer|?|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+LG Chromebase|Monroe|Y|Y|[John Lewis](http://goo.gl/K8D3MO)|
+[Samsung 2 11](http://goo.gl/oSCOKd)|Peach Pit|N|[Crouton](https://github.com/dnschneid/crouton)|N|
+[Samsung 2 13](http://goo.gl/oSCOKd)|Peach Pi|N|[Crouton](https://github.com/dnschneid/crouton)|N|
+Senkatel Edu||?|?|[John Lewis](http://goo.gl/K8D3MO)|
+[Toshiba CB30/35](http://goo.gl/nCIzN9)|Leon|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+Toshiba CB30/35 2|Swanky|?|?|[John Lewis](http://goo.gl/K8D3MO)|
 > ##2013 Chromebooks
-Model|Status|Script|SeaBIOS
-:-:|:-:|:-:|:-:|
-[Acer C720 - Peppy](http://goo.gl/UaWwyp)|Y|[9sgchs](http://goo.gl/7bUocb) & [chrx](https://github.com/reynhout/chrx)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-[Acer C720P - Peppy Pepto](http://goo.gl/UaWwyp)|Y|[9sgchs](http://goo.gl/7bUocb)|Y|
-[Google Pixel - Link](http://goo.gl/XbMUTc)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-[HP 11 - Kip](http://goo.gl/3V9jfn)|?|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
-[HP 14 - Falco](http://goo.gl/K9EDwV)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-[HP Pavilion - Butterfly](http://goo.gl/dhAbM7)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
-[Lenovo X131e - Stout](http://goo.gl/YB2m0s)|?|?|[John Lewis](http://goo.gl/K8D3MO)|
+Model|Hardware ID|Status|Script|SeaBIOS
+-----|-----------|:----:|:----:|:-----:
+[Acer C720](http://goo.gl/UaWwyp)|Peppy|Y|[9sgchs](http://goo.gl/7bUocb) & [chrx](https://github.com/reynhout/chrx)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+[Acer C720P](http://goo.gl/UaWwyp)|Pepto|Y|[9sgchs](http://goo.gl/7bUocb)|Y|
+[Google Pixel](http://goo.gl/XbMUTc)|Link|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+[HP Chromebook 11](http://goo.gl/3V9jfn)|Spring, Skate|?|s9ryd|N (ARM)|
+[HP Chromebook 14](http://goo.gl/K9EDwV)|Falco|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+[HP Pavilion](http://goo.gl/dhAbM7)|Butterfly|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+[Lenovo X131e](http://goo.gl/YB2m0s)|Stout|?|?|[John Lewis](http://goo.gl/K8D3MO)|
 > ##2012 Chromebooks
-Model|Status|Script|SeaBIOS
-:-:|:-:|:-:|:-:|
-Acer C710 - Parrot|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-[Samsung Series 3 - Stumpy](http://goo.gl/FwjFCM)|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-[Samsung Series 5 550 - Lumpy](http://goo.gl/0RJXN4)|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Model|Hardware ID|Status|Script|SeaBIOS
+-----|-----------|:----:|:----:|:-----:
+Acer C710|Parrot|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[Samsung Series 3](http://goo.gl/FwjFCM)|Stumpy|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[Samsung Series 5 550](http://goo.gl/0RJXN4)|Lumpy|Y|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 > ##2011 Chromebooks
-Model|Status|Script|SeaBIOS
-:-:|:-:|:-:|:-:|
-[Acer AC700 - ZGB](http://goo.gl/JL5cu3)|Y|[tnyga](http://goo.gl/7bUocb)|N|
-[Google Cr-48 - Mario](http://goo.gl/Oc4l0I)|Y|[tnyga](http://goo.gl/7bUocb)|N|
-[Samsung Series 5 - Alex](http://goo.gl/2vaLvs)|Y|[tnyga](http://goo.gl/7bUocb)|N|
+Model|Hardware ID|Status|Script|SeaBIOS
+-----|-----------|:----:|:----:|:-----:
+[Acer AC700](http://goo.gl/JL5cu3)|ZGB|Y|[tnyga](http://goo.gl/7bUocb)|N|
+[Google Cr-48](http://goo.gl/Oc4l0I)|Mario|Y|[tnyga](http://goo.gl/7bUocb)|N|
+[Samsung Series 5](http://goo.gl/2vaLvs)|Alex|Y|[tnyga](http://goo.gl/7bUocb)|N|
 
 To Sort
 
