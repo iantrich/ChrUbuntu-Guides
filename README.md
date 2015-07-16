@@ -32,7 +32,7 @@ Toshiba CB30/35 2 - Swanky|?|?|[John Lewis](http://goo.gl/K8D3MO)|
 > ##2013 Chromebooks
 Model|Status|Script|SeaBIOS
 :-:|:-:|:-:|:-:|
-[Acer C720 - Peppy](http://goo.gl/UaWwyp)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
+[Acer C720 - Peppy](http://goo.gl/UaWwyp)|Y|[9sgchs](http://goo.gl/7bUocb) & [chrx](https://github.com/reynhout/chrx)|Y & [John Lewis](http://goo.gl/K8D3MO)|
 [Acer C720P - Peppy Pepto](http://goo.gl/UaWwyp)|Y|[9sgchs](http://goo.gl/7bUocb)|Y|
 [Google Pixel - Link](http://goo.gl/XbMUTc)|Y|[9sgchs](http://goo.gl/7bUocb)|Y & [John Lewis](http://goo.gl/K8D3MO)|
 [HP 11 - Kip](http://goo.gl/3V9jfn)|?|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
