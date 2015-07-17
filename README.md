@@ -6,13 +6,13 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 ## 2015 Chromebooks
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
-Acer Chromebook 11 C740|Auron Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-Acer Chromebook 15 C910<br>Acer Chromebook 15 (CB5-571)|Auron Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Auron Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Auron Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Asus C201|Veyron Speedy|:question:|:question:|:x: (ARM)|
 Asus Flip C100|Veyron Minnie|:question:|:question:|:x: (ARM)|
 Dell 11|Candy|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 Dell 11P|:question:|:question:|:question:|:question:|
-Google Pixel 2|Samus|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[Google Pixel 2](http://goo.gl/2pNv6G)|Samus|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Haier Chromebook 11|Veyron Jaq|:question:|:question:|:x: (ARM)|
 Haier Chromebook 11 (edu)|Veyron Mighty|:question:|:question:|:x: (ARM)|
 Hisense Chromebook 11|Veyron Jerry|:question:|:question:|:x: (ARM)|
@@ -23,19 +23,19 @@ Lenovo Thinkpad 11e|Glimmer|:question:|[Crouton](https://github.com/dnschneid/cr
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 Acer Chromebook 11 (CB3-111)<br>Acer C730|Gnawty|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-Acer Chromebook 13 (CB5-311)|Big|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
+[Acer Chromebook 13 (CB5-311)](http://goo.gl/9TeZpH)|Big|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
+[Acer Chromebox](http://goo.gl/xt8Hpt)|Panther|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C200|Squawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C300|Quawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-ASUS Chromebox|Panther|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 CTL NL6|Engarde|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
-Dell 11|Wolf|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|:white_check_mark: & [John Lewis](http://goo.gl/K8D3MO)|
+[Dell 11](http://goo.gl/bgViNH)|Wolf|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|:white_check_mark: & [John Lewis](http://goo.gl/K8D3MO)|
 HEXA Pi|:question:|:x:|:x:|:question: (Bay Trail)|
 HP Chromebook 11 G3|Kip|:question:|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
-HP Chromebook 14 (2014)|Blaze|:question:|:question:|:x: (ARM)|
-HP Chromebox|Zako|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
-Lenovo N20/P|Clapper|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+[HP Chromebook 14 (2014)](http://goo.gl/AmKxkL)|Blaze|:question:|:question:|:x: (ARM)|
+[HP Chromebox](http://goo.gl/QiUxnG)|Zako|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
+[Lenovo N20/P](http://goo.gl/s8jZGr)|Clapper|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo ThinkPad Yoga 11e|Glimmer|:question:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
-LG Chromebase|Monroe|:white_check_mark:|:white_check_mark:|[John Lewis](http://goo.gl/K8D3MO)|
+[LG Chromebase](http://goo.gl/xVBLWX)|Monroe|:white_check_mark:|:white_check_mark:|[John Lewis](http://goo.gl/K8D3MO)|
 [Samsung 2 11](http://goo.gl/oSCOKd)|Peach Pit|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
 [Samsung 2 13](http://goo.gl/oSCOKd)|Peach Pi|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
 Senkatel Edu|Enguarde|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
