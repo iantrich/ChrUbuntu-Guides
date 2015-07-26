@@ -31,7 +31,7 @@ CTL NL6|Engarde|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 [Dell 11](http://goo.gl/bgViNH)|Wolf|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|:white_check_mark: & [John Lewis](http://goo.gl/K8D3MO)|
 HEXA Pi|:question:|:x:|:x:|:question: (Bay Trail)|
 HP Chromebook 11 G3|Kip|:question:|s9ryd|[John Lewis](http://goo.gl/K8D3MO)|
-[HP Chromebook 14 (2014)](http://goo.gl/AmKxkL)|Blaze|:question:|:question:|:x: (ARM)|
+[HP Chromebook 14 (Tegra K1)](http://goo.gl/AmKxkL)|Blaze|:question:|:question:|:x: (ARM)|
 [HP Chromebox](http://goo.gl/QiUxnG)|Zako|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 [Lenovo N20/P](http://goo.gl/s8jZGr)|Clapper|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo ThinkPad Yoga 11e|Glimmer|:question:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
