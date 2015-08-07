@@ -36,8 +36,9 @@ HP Chromebook 14 (Tegra K1)|Blaze|:question:|:question:|:x: (ARM)|
 [Lenovo N20/P](http://goo.gl/s8jZGr)|Clapper|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 Lenovo ThinkPad Yoga 11e|Glimmer|:question:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 [LG Chromebase](http://goo.gl/xVBLWX)|Monroe|:white_check_mark:|:white_check_mark:|[John Lewis](http://goo.gl/K8D3MO)|
-[Samsung 2 11](http://goo.gl/oSCOKd)|Peach Pit|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
-[Samsung 2 13](http://goo.gl/oSCOKd)|Peach Pi|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
+[Samsung Chromebook 2 (XE503C12)](http://goo.gl/oSCOKd)|Peach Pit|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
+[Samsung Chromebook 2 (XE503C32)](http://goo.gl/oSCOKd)|Peach Pi|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
+Samsung Chromebook 2 (XE500C12)|Winky|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO) (Bay Trail)|
 Senkatel Edu|Engarde|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 [Toshiba CB30 Chromebook](http://goo.gl/nCIzN9)<br>[Toshiba CB35 Chromebook](http://goo.gl/nCIzN9)|Leon|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|:white_check_mark: & [John Lewis](http://goo.gl/K8D3MO)|
 Toshiba CB30 Chromebook 2<br>Toshiba CB35 Chromebook 2|Swanky|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
