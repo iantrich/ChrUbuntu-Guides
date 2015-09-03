@@ -8,6 +8,7 @@ Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 [Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 [Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|:question:|
 Asus C201|Veyron Speedy|:question:|:question:|:x: (ARM)|
 Asus Flip C100|Veyron Minnie|:question:|:question:|:x: (ARM)|
 Dell 11|Candy|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
