@@ -6,6 +6,7 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 ## 2015 Chromebooks
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
+(unknown)|McCloud|:question:|:question:|:question:|
 [Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 [Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|:question:|
