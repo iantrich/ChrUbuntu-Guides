@@ -7,8 +7,6 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 (unknown)|McCloud|:question:|:question:|:question:|
-[Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-[Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|:question:|
 Asus C201|Veyron Speedy|:question:|:question:|:x: (ARM)|
 Asus Flip C100|Veyron Minnie|:question:|:question:|:x: (ARM)|
@@ -25,8 +23,10 @@ Lenovo Thinkpad 11e|Glimmer|:question:|[Crouton](https://github.com/dnschneid/cr
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 Acer Chromebook 11 (CB3-111)<br>Acer C730|Gnawty|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
+[Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 [Acer Chromebook 13 (CB5-311)](http://goo.gl/9TeZpH)|Big|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
-[Acer Chromebox](http://goo.gl/xt8Hpt)|Panther|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
+[Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+[ASUS Chromebox](http://goo.gl/xt8Hpt)|Panther|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C200|Squawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C300|Quawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 CTL NL6|Engarde|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
@@ -60,7 +60,8 @@ Model|Hardware ID|Status|Script|SeaBIOS
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 Acer C7<br>Acer C710|Parrot|:white_check_mark:|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
-[Samsung Series 3](http://goo.gl/FwjFCM)|Stumpy|:white_check_mark:|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Samsung ARM Chromebook|Snow|:question:|:question:|:x: (ARM)|
+[Samsung Series 3 Chromebox](http://goo.gl/FwjFCM)|Stumpy|:white_check_mark:|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 [Samsung Series 5 550](http://goo.gl/0RJXN4)|Lumpy|:white_check_mark:|[tnyga](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 
 ## 2011 Chromebooks
