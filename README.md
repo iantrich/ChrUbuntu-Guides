@@ -7,7 +7,7 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
 CXI chromebox|McCloud|:question:|:question:|:question:|
-Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|:question:|
+Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 Asus C201|Veyron Speedy|:question:|:question:|:x: (ARM)|
 Asus Flip C100|Veyron Minnie|:question:|:question:|:x: (ARM)|
 Dell 11|Candy|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
