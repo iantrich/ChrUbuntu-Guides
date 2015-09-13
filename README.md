@@ -6,7 +6,6 @@ Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUb
 ## 2015 Chromebooks
 Model|Hardware ID|Status|Script|SeaBIOS
 -----|-----------|:----:|:----:|:-----:
-CXI chromebox|McCloud|:question:|:question:|:question:|
 Acer Chromebook 15 (CB3-531)|Banjo|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 Asus C201|Veyron Speedy|:question:|:question:|:x: (ARM)|
 Asus Flip C100|Veyron Minnie|:question:|:question:|:x: (ARM)|
@@ -26,6 +25,7 @@ Acer Chromebook 11 (CB3-111)<br>Acer C730|Gnawty|:x:|[Crouton](https://github.co
 [Acer Chromebook 11 C740](http://goo.gl/KU4Qeo)|Paine|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
 [Acer Chromebook 13 (CB5-311)](http://goo.gl/9TeZpH)|Big|:x:|[Crouton](https://github.com/dnschneid/crouton)|:x: (ARM)|
 [Acer Chromebook 15 C910](http://goo.gl/31YKEO)<br>[Acer Chromebook 15 (CB5-571)](http://goo.gl/31YKEO)|Yuna|:white_check_mark:|[9sgchs](http://goo.gl/7bUocb)|[John Lewis](http://goo.gl/K8D3MO)|
+Acer Chromebox CXI|McCloud|:question:|:question:|:question:|
 [ASUS Chromebox](http://goo.gl/xt8Hpt)|Panther|:question:|:question:|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C200|Squawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
 ASUS C300|Quawks|:x:|[Crouton](https://github.com/dnschneid/crouton)|[John Lewis](http://goo.gl/K8D3MO)|
