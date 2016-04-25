@@ -1,6 +1,8 @@
 # ChrUbuntu-Guides
 Guides, Walk-throughs, General Fixes and Tips for Chromebook users running ChrUbuntu
 
+*Note:* ChrUbuntu script is not actively maintained by the author anymore. You may want to consider either [GalliumOS](https://galliumos.org/) for a full linux experience on Chromebook or [Crouton](https://github.com/dnschneid/crouton) for a chroot based linux experience allowing easy switching between ChromeOS and Linux.
+
 # Supported Models
 
 ## 2015 Chromebooks
