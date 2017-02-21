@@ -44,9 +44,8 @@ your installation from corruption due to unexpected power loss. Read more on the
 
 13. Run the command:
 
-  **NOTE:** Run `curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -h` to see all available options
-
   `curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -m <ubuntu_flavor> -u <version> -a <architecture>`
+> **NOTE:** Run `curl -L -O http://goo.gl/<script_name>; sudo bash <script_name> -h` to see all available options
 
   where 
 
