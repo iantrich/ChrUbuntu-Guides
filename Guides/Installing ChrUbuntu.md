@@ -119,6 +119,6 @@ your installation from corruption due to unexpected power loss. Read more on the
 **Further Reading**
   * [Common ChrUbuntu Fixes](https://github.com/iantrich/ChrUbuntu-Guides#fixes)
   * [ChrUbuntu Tips](https://github.com/iantrich/ChrUbuntu-Guides#tips)
-  * [Not an Ubuntu fan? Installing a different flavor of Linux](https://github.com/iantrich/ChrUbuntu-Guides/edit/master/Guides/Installing%20a%20custom%20distro.md)
+  * [Not an Ubuntu fan? Installing a different flavor of Linux](https://github.com/iantrich/ChrUbuntu-Guides/blob/master/Guides/Installing%20a%20custom%20distro.md)
 
 
